@@ -9,7 +9,7 @@ RESET = "\033[0;0m"
 BOLD    = "\033[;1m"
 REVERSE = "\033[;7m"
 
-print(BOLD+f'\n{10 *" "}JOGO DA FORCA{10 *" "}\n'+RESET)
+print(BOLD+f'\n{10 *" "}JOGO BINGO{10 *" "}\n'+RESET)
 
 # ESCOLHA DA CARTELA DO USUARIO
 def esc_jogador():
